@@ -21,4 +21,4 @@ Contact: johnmkramer2@gmail.com · https://www.linkedin.com/in/john-kramer-b7151
 | 9 | Score the Tenant | Cloud security posture | coming, week 9 |
 | 10 | The Breach (capstone) | Full incident investigation | coming, week 10 |
 
-"By December 23rd, I will be interview-ready for [SOC Analyst / Security Analyst] roles in Hartford, with documented investigations, a rebuilt resume, and 1,000+ applications submitted. I commit to 7 hours/week, one chapter/week, and daily check-ins."
+By December 23rd, I will be interview-ready for [SOC Analyst / Security Analyst] roles in Hartford, with documented investigations, a rebuilt resume, and 1,000+ applications submitted. I commit to 7 hours/week, one chapter/week, and daily check-ins.
